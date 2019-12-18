@@ -28,17 +28,17 @@ variable "instance_tags" {
 }
 
 variable "user_name" {
-  default = 10
+  default = ""
 }
 
 variable "tenant_name" {
-  default = 10
+  default = ""
 }
 
 variable "pwd" {
-  default = 10
+  default = ""
 }
 
 variable "region" {
-  default = 10
+  default = ""
 }
